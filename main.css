@@ -1,0 +1,63 @@
+html body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Zilla Slab', serif;
+    background-color: #F2EBD5;
+}
+
+/* Barre de navigation */
+
+nav {
+    background-color: #B8977B;
+    height: 3em;
+}
+
+ul {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav>ul>.nav {
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #F2EBD5;
+    line-height: 45px;
+}
+
+/* Header */
+
+header {
+
+    height: 400px;
+    background-color: #73455A;
+
+}
+
+#name {
+    color: #F2EBD5;
+    font-family: 'Dancing Script', serif;
+    text-align: center;
+    font-size: 3.5em;
+    margin: 0;
+    padding: 100px 0px 10px 0px;
+}
+
+#headP {
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+}
+
+#headP2 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+h2 {
+    margin: 0;
+    background-color: #EFA39A;
+}
